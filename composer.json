@@ -1,0 +1,16 @@
+{
+    "name": "turkeyfried/http-status-codes",
+    "description": "PHP Class that contains HTTP Status Codes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Pabon",
+            "email": "turkeyfried@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "httpStatusCodes\\": "src/"
+        }
+    }
+}
